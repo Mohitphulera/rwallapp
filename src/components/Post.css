@@ -1,0 +1,16 @@
+.card {
+    margin-bottom: 1rem;
+    margin-top: 1rem;
+    opacity: 0.9;
+}
+
+.card-header {
+    padding-left: 1.5rem;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+}
+
+.card-footer-item {
+    justify-content: flex-start !important;
+    padding: 1rem 1.5rem !important;
+}

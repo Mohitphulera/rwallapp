@@ -1,0 +1,19 @@
+
+
+.navbar {
+  display: flex;
+  opacity: 0.8;
+}
+
+.navbar-brand-title {
+  align-self: center;
+  font-weight: bold;
+  margin: 1em;
+  
+}
+.app{
+   background-image: url("https://thewallpaper.co//wp-content/uploads/2016/10/graffiti-wall-long-graffiti-wall-background-hd-wallpapers-4k-artwork-background-wallpapers-desktop-wallpapers-mac-desktop-images-samsung-phone-wallpapers-widescreen-1600x938.jpg");
+   background-position: center;
+   background-size:  cover;
+   background-repeat: no-repeat;
+  }

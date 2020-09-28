@@ -1,0 +1,117 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`matches snapshot & renders correctly 1`] = `
+<div
+  className="modal is-active"
+>
+  <div
+    className="modal-background"
+    onClick={[Function]}
+  />
+  <div
+    className="modal-card"
+  >
+    <header
+      className="modal-card-head"
+    >
+      <p
+        className="modal-card-title"
+      >
+        Login
+      </p>
+      <button
+        aria-label="close"
+        className="delete"
+        onClick={[Function]}
+      />
+    </header>
+    <section
+      className="modal-card-body"
+    >
+      <form>
+        <img
+          alt="Tsl"
+          className="logo"
+          src="logo.png"
+        />
+        <div
+          className="field"
+        >
+          <label
+            className="label"
+          >
+            Username
+          </label>
+          <div
+            className="control has-icons-left has-icons-right"
+          >
+            <input
+              className="input"
+              name="username"
+              onChange={[Function]}
+              onKeyPress={[Function]}
+              required={true}
+              type="text"
+              value=""
+            />
+            <span
+              className="icon is-small is-left"
+            >
+              <i
+                className="fa fa-user"
+              />
+            </span>
+          </div>
+        </div>
+        <div
+          className="field"
+        >
+          <label
+            className="label"
+          >
+            Password
+          </label>
+          <div
+            className="control has-icons-left has-icons-right"
+          >
+            <input
+              className="input"
+              name="password"
+              onChange={[Function]}
+              onKeyPress={[Function]}
+              required={true}
+              type="password"
+              value=""
+            />
+            <span
+              className="icon is-small is-left"
+            >
+              <i
+                className="fa fa-lock"
+              />
+            </span>
+          </div>
+        </div>
+      </form>
+    </section>
+    <footer
+      className="modal-card-foot"
+    >
+      <button
+        className="button is-link"
+        onClick={[Function]}
+      >
+        <span>
+          Submit
+        </span>
+      </button>
+      <button
+        className="button"
+        onClick={[Function]}
+      >
+        Cancel
+      </button>
+    </footer>
+  </div>
+</div>
+`;
