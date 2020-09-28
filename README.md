@@ -1,3 +1,5 @@
+## The Wall App
+
 This project is the Frontend of the Wallapp which gives you the User Interface to Register & Login a User.
 Whenever a user get himself registered on this web app he gets a welcome email & then the user can login and Post content on the Wall.
 A user can see all the posts on the wall that has been updated by the users .
