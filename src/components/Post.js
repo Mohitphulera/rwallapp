@@ -29,7 +29,7 @@ export default class Post extends Component {
                 </div>
                 <div className="card-footer">
                     <div className="card-footer-item">
-                        <time className="is-size-6">{moment(timestamp).calendar()}</time>
+                        <time className="is-size-6">{moment(timestamp).utc().calendar()}</time>
                     </div>
                 </div>
             </div>
